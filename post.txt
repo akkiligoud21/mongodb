@@ -1,4 +1,4 @@
-db.posts.insertMany([
+([
   {
     title: "Learning MongoDB",
     content: "insertOne vs insertMany...",
