@@ -1,4 +1,4 @@
-db.contacts.insertMany([
+([
   {
     name: "Alice",
     message: "Loved your website!",
