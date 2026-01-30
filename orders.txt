@@ -1,4 +1,4 @@
-db.orders.insertMany([
+([
   {
     orderId: "ORD001",
     user: "John Doe",
