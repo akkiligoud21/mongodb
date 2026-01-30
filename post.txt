@@ -1,0 +1,9 @@
+db.posts.insertMany([
+  {
+    title: "Learning MongoDB",
+    content: "insertOne vs insertMany...",
+    author: "Your Name",
+    tags: ["mongodb", "database"],
+    createdAt: new Date()
+  }
+]);
